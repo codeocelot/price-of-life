@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/price-of-life/static/css/main.2d5c788b.chunk.css",
-    "main.js": "/price-of-life/static/js/main.589912dd.chunk.js",
-    "main.js.map": "/price-of-life/static/js/main.589912dd.chunk.js.map",
+    "main.js": "/price-of-life/static/js/main.0e3f7f20.chunk.js",
+    "main.js.map": "/price-of-life/static/js/main.0e3f7f20.chunk.js.map",
     "runtime-main.js": "/price-of-life/static/js/runtime-main.e11cbe0d.js",
     "runtime-main.js.map": "/price-of-life/static/js/runtime-main.e11cbe0d.js.map",
-    "static/js/2.ccf450bf.chunk.js": "/price-of-life/static/js/2.ccf450bf.chunk.js",
-    "static/js/2.ccf450bf.chunk.js.map": "/price-of-life/static/js/2.ccf450bf.chunk.js.map",
+    "static/js/2.1d5eaa3d.chunk.js": "/price-of-life/static/js/2.1d5eaa3d.chunk.js",
+    "static/js/2.1d5eaa3d.chunk.js.map": "/price-of-life/static/js/2.1d5eaa3d.chunk.js.map",
     "index.html": "/price-of-life/index.html",
-    "precache-manifest.e6b6de7ea6a8b4086877a934ad98cc30.js": "/price-of-life/precache-manifest.e6b6de7ea6a8b4086877a934ad98cc30.js",
+    "precache-manifest.475e8f04a557e61b5f3987ede5bae5c3.js": "/price-of-life/precache-manifest.475e8f04a557e61b5f3987ede5bae5c3.js",
     "service-worker.js": "/price-of-life/service-worker.js",
     "static/css/main.2d5c788b.chunk.css.map": "/price-of-life/static/css/main.2d5c788b.chunk.css.map",
-    "static/js/2.ccf450bf.chunk.js.LICENSE.txt": "/price-of-life/static/js/2.ccf450bf.chunk.js.LICENSE.txt"
+    "static/js/2.1d5eaa3d.chunk.js.LICENSE.txt": "/price-of-life/static/js/2.1d5eaa3d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e11cbe0d.js",
-    "static/js/2.ccf450bf.chunk.js",
+    "static/js/2.1d5eaa3d.chunk.js",
     "static/css/main.2d5c788b.chunk.css",
-    "static/js/main.589912dd.chunk.js"
+    "static/js/main.0e3f7f20.chunk.js"
   ]
 }
