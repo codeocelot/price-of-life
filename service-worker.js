@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/price-of-life/precache-manifest.5dfca1a0647c10acaff2d3674c4acc45.js"
+  "/price-of-life/precache-manifest.ac31e6203ccbf6be7ddc4341207df8e3.js"
 );
 
 self.addEventListener('message', (event) => {
